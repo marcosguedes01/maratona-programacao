@@ -1,0 +1,5 @@
+C:\Users\marcos.guedes\Documents\Visual Studio 2015\MaratonaAvanade\001Escada\001Escada\bin\Debug\001Escada.exe.config
+C:\Users\marcos.guedes\Documents\Visual Studio 2015\MaratonaAvanade\001Escada\001Escada\bin\Debug\001Escada.exe
+C:\Users\marcos.guedes\Documents\Visual Studio 2015\MaratonaAvanade\001Escada\001Escada\bin\Debug\001Escada.pdb
+C:\Users\marcos.guedes\Documents\Visual Studio 2015\MaratonaAvanade\001Escada\001Escada\obj\Debug\001Escada.exe
+C:\Users\marcos.guedes\Documents\Visual Studio 2015\MaratonaAvanade\001Escada\001Escada\obj\Debug\001Escada.pdb
