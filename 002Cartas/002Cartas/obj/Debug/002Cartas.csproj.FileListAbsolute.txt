@@ -1,0 +1,5 @@
+C:\Users\marcos.guedes\Documents\Visual Studio 2017\MaratonaAvanade\002Cartas\002Cartas\bin\Debug\002Cartas.exe.config
+C:\Users\marcos.guedes\Documents\Visual Studio 2017\MaratonaAvanade\002Cartas\002Cartas\bin\Debug\002Cartas.exe
+C:\Users\marcos.guedes\Documents\Visual Studio 2017\MaratonaAvanade\002Cartas\002Cartas\bin\Debug\002Cartas.pdb
+C:\Users\marcos.guedes\Documents\Visual Studio 2017\MaratonaAvanade\002Cartas\002Cartas\obj\Debug\002Cartas.exe
+C:\Users\marcos.guedes\Documents\Visual Studio 2017\MaratonaAvanade\002Cartas\002Cartas\obj\Debug\002Cartas.pdb
